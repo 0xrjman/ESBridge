@@ -23,7 +23,7 @@ require (
 	github.com/rjman-self/go-polkadot-rpc-client v1.4.4
 	github.com/rjman-self/platdot-utils v1.0.9
 	github.com/rjmand/go-substrate-rpc-client/v2 v2.5.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/urfave/cli/v2 v2.3.0
 	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83 // indirect
 	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11 // indirect
